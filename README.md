@@ -21,8 +21,8 @@ This tool scrapes a Reddit user's posts and comments, summarizes their behavior 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/reddit-persona-generator.git
-cd reddit-persona-generator
+git clone https://github.com/your-username/reddit-persona-project.git
+cd reddit-persona-project
 ```
 
 ### 2. Set Up Virtual Environment
