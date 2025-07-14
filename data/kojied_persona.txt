@@ -1,0 +1,45 @@
+Name: kojied
+Age: 25-35 (Estimated based on references to Gen Z, Millenials, and career stage)
+Occupation: iOS Developer / Tech Professional (Based on VisionPro interests and developer questions)
+Status: Transient New Yorker (3 years in NYC, considers future relocation)
+Location: New York City (Frequent mentions of NYC locations and experiences)
+Tier: Middle to Upper-Middle Class (Based on tech job, investment activity, and dining choices)
+Archetype: The Analyst (Interested in systems, optimization, and understanding underlying causes)
+
+### Interests
+- **Technology**: "Spacial tours with 3D map and 360˚ video" ([https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/])
+- **VisionOS Development**: "Best blogs, tutorial channels to learn Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" ([https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/])
+- **Gaming (Civ5, Project Zomboid, Manor Lords)**: "Yeah I was doing alright and then as soon as I upgraded to tier 3 my town was in shambles. I didn’t notice how demanding it was going to be" ([https://www.reddit.com/r/ManorLords/comments/1ljgy2w/confession/mzopv8i/])
+- **Investing/Finance**: "Still buying options? I’ve been tradin" ([https://www.reddit.com/r/stocks/comments/fk6aya/still_buying_options/])
+- **NYC Culture (Food, Biking, Subway)**: "Breakfast - Buvette Coffee - Lyria Lunch - Tsukemen okiboru Coffee - La cabra Dinner - Isodi Drinks - Double chicken please" ([https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/])
+- **One Piece (Anime/Manga)**: "【Theory】 What if we live in the void 800 century Let’s say the WG is the current western civilization." ([https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/])
+- **Plants**: "【Help!】English ivy is withering, any suggestions on what I should do?" ([https://www.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/])
+- **ESG and Ethical Consumption**: "Tracking our individual impacts on the world through ESG ratings" ([https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/])
+
+### Personality Traits
+- **Analytical**: Evident in the detailed strategies for Civ5 and the desire to track gratification from purchases.
+- **Observant**: Notices changes in NYC culture, restaurant quality, and the behavior of others.
+- **Introspective**: Reflects on their own transient nature in NYC and compares it to others.
+- **Pragmatic**: Acknowledges the limitations of current technology (VisionPro battery life) and past investment mistakes.
+- **Humorous**: Makes lighthearted comments about ads in basketball and people refreshing TikTok on the subway.
+- **Helpful**: Offers detailed advice on various topics, from plant care to fashion to Civ5 strategies.
+
+### Values & Motivations
+- **Efficiency**: Seeks optimal strategies in games and life (e.g., internal trade routes in Civ5, efficient shopping).
+- **Personal Growth**: Interested in self-improvement, both physically and mentally (e.g., working out, fashion advice).
+- **Intellectual Stimulation**: Enjoys complex games, theorizing about One Piece, and exploring new technologies.
+- **Authenticity**: Prefers in-person interactions over dating apps and values genuine experiences.
+- **Social Awareness**: Concerned about wealth inequality and hopes for meaningful solutions.
+
+### Goals / Pain Points
+- **Finding Meaningful Work with VisionPro**: Wants to fully integrate their workflow into the VisionPro but faces limitations with current software and hardware.
+- **Optimizing Personal Finances**: Seeks ways to make better purchasing decisions and avoid impulsive spending.
+- **Maintaining a Healthy Lifestyle**: Interested in fitness, skincare, and fashion as ways to improve their appearance and well-being.
+- **Navigating NYC Culture**: Adapting to the changing dynamics of NYC nightlife and finding enjoyable activities.
+- **Avoiding Investment Scams**: Learning from past mistakes in the NFT space and being more cautious about future investments.
+
+### Communication Style
+- **Detailed and Informative**: Provides thorough explanations and specific recommendations.
+- **Direct and Honest**: Shares personal experiences and opinions openly.
+- **Analytical and Strategic**: Approaches problems with a systematic and logical mindset.
+- **Casual and Conversational**: Uses informal language and humor in their posts.
